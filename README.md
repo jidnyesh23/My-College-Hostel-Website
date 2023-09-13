@@ -11,7 +11,7 @@
 <h2><a href="https://www.figma.com/file/vfwZdX7L5Xs0pdbIDYjV6B/Untitled?type=design&node-id=0%3A1&mode=design&t=4hKoLlJfIBI3Kybi-1">Figma link of the UI</a></h2>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/jidneysh chaudhari" target="blank"><img align="center" src="https://static-00.iconduck.com/assets.00/linkedin-icon-1024x1024-net2o24e.png" alt="jidneysh chaudhari" height="40" width="40" /></a>
+<a href="https://www.linkedin.com/in/jidnyesh-chaudhari-2ba832211/" target="blank"><img align="center" src="https://static-00.iconduck.com/assets.00/linkedin-icon-1024x1024-net2o24e.png" alt="jidneysh chaudhari" height="40" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/jidnyeshtc23" target="blank">GFG</a>
 </p>
 
